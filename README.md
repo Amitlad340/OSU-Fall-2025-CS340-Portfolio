@@ -3,8 +3,6 @@
 This repository contains the official documentation for **Coffee Explorers**, a full-stack database project completed for CS340 (Introduction to Databases) at Oregon State University.
 
  **No source code is included** 
-This repo showcases the design work, SQL development, PL/SQL logic, database architecture, and problem-solving that went into building the project.
-
 ---
 
 ## Collaboration
